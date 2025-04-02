@@ -1,0 +1,168 @@
+body {
+    background-color: rgb(237, 241, 209);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.bg-white {
+    color: #ffffff;
+}
+
+.bg-transition {
+    background-color: #146368;
+}
+
+.carousel {
+    width: 40%;
+    height: 40%;
+}
+
+.imagem {
+    position: absolute;
+    top: 15px; /* Ajuste conforme necessário */
+    left: 20px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 80px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    border: solid white;
+}
+
+.navbar {
+    position: relative; /* Garante que a imagem se posicione em relação a ela */
+    z-index: 1;
+}
+
+.dropdown-toggle {
+    margin-left: 100px;
+}
+
+
+.btn-outline-success {
+    border: solid white;
+}
+
+.Planos {
+    text-align: center;
+}
+
+.black {
+    background-color: rgb(0, 0, 0);
+    border: solid #146368;
+    width: 390px;
+    text-align: center;
+    margin-left: 760px;
+    
+}
+
+
+
+
+.first_button {
+    width: 400px;
+    height: 200px;
+    border-radius: 40px;
+    color: #146368;
+    margin-left: 760px;
+    background-color: #d9d9d9;
+    border-width: 1px;
+    border-width: 6px;
+    border-color: white;
+}
+
+.first_button:hover {
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.2), -2px -2px 50px rgba(255, 255, 255, 0.10);
+}
+
+
+.p1 {
+    position: absolute;
+    top: 250px; /* Ajuste conforme necessário */
+    left: 761px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 400px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.p2 {
+    position: absolute;
+    top: 315px; /* Ajuste conforme necessário */
+    left: 761px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 400px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.new_button {
+    width: 400px;
+    height: 200px;
+    border-radius: 40px;
+    color: #146368;
+    margin-left: 760px;
+    background-color: #d9d9d9;
+    border-width: 1px;
+    position: absolute;
+    top: 380px;
+    border-width: 6px;
+    border-color: white;
+
+
+}
+
+.new_button:hover {
+    box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.2), -2px -2px 50px rgba(255, 255, 255, 0.10);
+}
+
+.p3 {
+    position: absolute;
+    top: 105px; /* Ajuste conforme necessário */
+    left: 10px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 400px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.p4 {
+    position: absolute;
+    top: 170px; /* Ajuste conforme necessário */
+    left: 10px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 400px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.we_button {
+    width: 400px;
+    height: 200px;
+    border-radius: 40px;
+    color: #146368;
+    margin-left: 760px;
+    background-color: #d9d9d9;
+    border-width: 1px;
+    position: absolute;
+    top: 610px;
+    border-width: 6px;
+    border-color: white;
+
+}
+
+.p5 {
+    position: absolute;
+    top: 170px; /* Ajuste conforme necessário */
+    left: 10px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 400px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.p6 {
+    position: absolute;
+    top: 170px; /* Ajuste conforme necessário */
+    left: 10px; /* Ajuste para alinhar à esquerda ou ao centro */
+    width: 400px;
+    height: 80px;
+    z-index: 110; /* Garante que a imagem fique sobre a navbar */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
